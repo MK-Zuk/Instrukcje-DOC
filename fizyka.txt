@@ -1,0 +1,3 @@
+Jad¹c z miasta A do B, motocyklista przemieszcza³ siê ze œredni¹ szubkoœci¹ v1 = 80 km / h. Drogê powrotn¹ przeby³ z szybkoœci¹ v2 = 20 km / h. Jaka by³a œrednia szybkoœæ motocyklisty w czasie trwania ca³ej podró¿y?
+
+Odleg³oœæ miêdzy dwoma miastami wynosi s = 300 km. Z ka¿dego z nich w tej samej chwili wyrusza poci¹g w stronê drugiego miasta. Jakie drogi przebêd¹ poci¹gi do chwili spotkania, jeœli szybkoœci wynosz¹ odpowiednio v1 = 100 km / h oraz v2 = 50 km / h
