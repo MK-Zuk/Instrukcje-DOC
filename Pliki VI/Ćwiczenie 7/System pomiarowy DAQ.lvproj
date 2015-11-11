@@ -32,6 +32,7 @@
 			<Item Name="Zwolnienie_virtual.vi" Type="VI" URL="../SubVI/SubVI_Virrtual.llb/Zwolnienie_virtual.vi"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../../Ćwiczenie 3/Main.vi"/>
+		<Item Name="Main_maszyna.vi" Type="VI" URL="../Main_maszyna.vi"/>
 		<Item Name="Time Control.vi" Type="VI" URL="../Time Control.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
