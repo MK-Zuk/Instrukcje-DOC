@@ -31,7 +31,9 @@
 			<Item Name="Temperature_Limits.vi" Type="VI" URL="../SubVI/Temperature_Limits.vi"/>
 			<Item Name="Zwolnienie_virtual.vi" Type="VI" URL="../SubVI/SubVI_Virrtual.llb/Zwolnienie_virtual.vi"/>
 		</Item>
+		<Item Name="Control 4.ctl" Type="VI" URL="../Control 4.ctl"/>
 		<Item Name="Main.vi" Type="VI" URL="../../Ćwiczenie 3/Main.vi"/>
+		<Item Name="termometr1.ctl" Type="VI" URL="../termometr1.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
