@@ -27,6 +27,7 @@
 		<Item Name="SubVI" Type="Folder">
 			<Item Name="Kongiguracja_virtual.vi" Type="VI" URL="../SubVI/SubVI_Virrtual.llb/Kongiguracja_virtual.vi"/>
 			<Item Name="Pomiar_virtual.vi" Type="VI" URL="../SubVI/SubVI_Virrtual.llb/Pomiar_virtual.vi"/>
+			<Item Name="Srednia FVG.vi" Type="VI" URL="../SubVI/Srednia FVG.vi"/>
 			<Item Name="Temp_konwersja.vi" Type="VI" URL="../SubVI/Temp_konwersja.vi"/>
 			<Item Name="Temperature_Limits.vi" Type="VI" URL="../SubVI/Temperature_Limits.vi"/>
 			<Item Name="Zwolnienie_virtual.vi" Type="VI" URL="../SubVI/SubVI_Virrtual.llb/Zwolnienie_virtual.vi"/>
@@ -70,13 +71,6 @@
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
 			<Item Name="Control 4.ctl" Type="VI" URL="../../Ćwiczenie 6/Control 4.ctl"/>
-			<Item Name="Kongiguracja_virtual.vi" Type="VI" URL="../../Ćwiczenie 6/SubVI/SubVI_Virrtual.llb/Kongiguracja_virtual.vi"/>
-			<Item Name="Params.ctl" Type="VI" URL="../../Ćwiczenie 6/inne pliki/Params.ctl"/>
-			<Item Name="Pomiar_virtual.vi" Type="VI" URL="../../Ćwiczenie 6/SubVI/SubVI_Virrtual.llb/Pomiar_virtual.vi"/>
-			<Item Name="Stany.ctl" Type="VI" URL="../../Ćwiczenie 6/inne pliki/Stany.ctl"/>
-			<Item Name="Temp_konwersja.vi" Type="VI" URL="../../Ćwiczenie 6/SubVI/Temp_konwersja.vi"/>
-			<Item Name="Temperature_Limits.vi" Type="VI" URL="../../Ćwiczenie 6/SubVI/Temperature_Limits.vi"/>
-			<Item Name="Zwolnienie_virtual.vi" Type="VI" URL="../../Ćwiczenie 6/SubVI/SubVI_Virrtual.llb/Zwolnienie_virtual.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
