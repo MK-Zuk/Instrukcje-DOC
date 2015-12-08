@@ -38,6 +38,7 @@
 		<Item Name="Main.vi" Type="VI" URL="../../Ćwiczenie 3/Main.vi"/>
 		<Item Name="Main_maszyna.vi" Type="VI" URL="../Main_maszyna.vi"/>
 		<Item Name="Main_rownolegle.vi" Type="VI" URL="../Main_rownolegle.vi"/>
+		<Item Name="szeregowe i rownolegle.vi" Type="VI" URL="../szeregowe i rownolegle.vi"/>
 		<Item Name="Time Control.vi" Type="VI" URL="../Time Control.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
