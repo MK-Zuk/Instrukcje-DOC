@@ -20,11 +20,14 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Kontrolki" Type="Folder">
+			<Item Name="Akcje czas FVG.ctl" Type="VI" URL="../inne pliki/Akcje czas FVG.ctl"/>
+			<Item Name="Akcje FVG.ctl" Type="VI" URL="../inne pliki/Akcje FVG.ctl"/>
 			<Item Name="Data.ctl" Type="VI" URL="../inne pliki/Data.ctl"/>
 			<Item Name="Params.ctl" Type="VI" URL="../inne pliki/Params.ctl"/>
 			<Item Name="Stany.ctl" Type="VI" URL="../inne pliki/Stany.ctl"/>
 		</Item>
 		<Item Name="SubVI" Type="Folder">
+			<Item Name="Czasomierz FVG.vi" Type="VI" URL="../Czasomierz FVG.vi"/>
 			<Item Name="Kongiguracja_virtual.vi" Type="VI" URL="../SubVI/SubVI_Virrtual.llb/Kongiguracja_virtual.vi"/>
 			<Item Name="Pomiar_virtual.vi" Type="VI" URL="../SubVI/SubVI_Virrtual.llb/Pomiar_virtual.vi"/>
 			<Item Name="Srednia FVG.vi" Type="VI" URL="../SubVI/Srednia FVG.vi"/>
@@ -34,6 +37,7 @@
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../../Ćwiczenie 3/Main.vi"/>
 		<Item Name="Main_maszyna.vi" Type="VI" URL="../Main_maszyna.vi"/>
+		<Item Name="Main_rownolegle.vi" Type="VI" URL="../Main_rownolegle.vi"/>
 		<Item Name="Time Control.vi" Type="VI" URL="../Time Control.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -70,13 +74,6 @@
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="Kongiguracja_virtual.vi" Type="VI" URL="../../Ćwiczenie 8/SubVI/SubVI_Virrtual.llb/Kongiguracja_virtual.vi"/>
-			<Item Name="Params.ctl" Type="VI" URL="../../Ćwiczenie 8/inne pliki/Params.ctl"/>
-			<Item Name="Pomiar_virtual.vi" Type="VI" URL="../../Ćwiczenie 8/SubVI/SubVI_Virrtual.llb/Pomiar_virtual.vi"/>
-			<Item Name="Stany.ctl" Type="VI" URL="../../Ćwiczenie 8/inne pliki/Stany.ctl"/>
-			<Item Name="Temp_konwersja.vi" Type="VI" URL="../../Ćwiczenie 8/SubVI/Temp_konwersja.vi"/>
-			<Item Name="Temperature_Limits.vi" Type="VI" URL="../../Ćwiczenie 8/SubVI/Temperature_Limits.vi"/>
-			<Item Name="Zwolnienie_virtual.vi" Type="VI" URL="../../Ćwiczenie 8/SubVI/SubVI_Virrtual.llb/Zwolnienie_virtual.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
