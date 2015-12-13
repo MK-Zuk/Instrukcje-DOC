@@ -22,6 +22,7 @@
 		<Item Name="Kontrolki" Type="Folder">
 			<Item Name="Akcje czas FVG.ctl" Type="VI" URL="../inne pliki/Akcje czas FVG.ctl"/>
 			<Item Name="Akcje FVG.ctl" Type="VI" URL="../inne pliki/Akcje FVG.ctl"/>
+			<Item Name="Akcje rownolegle FVG.ctl" Type="VI" URL="../inne pliki/Akcje rownolegle FVG.ctl"/>
 			<Item Name="Data.ctl" Type="VI" URL="../inne pliki/Data.ctl"/>
 			<Item Name="Params.ctl" Type="VI" URL="../inne pliki/Params.ctl"/>
 			<Item Name="Stany.ctl" Type="VI" URL="../inne pliki/Stany.ctl"/>
@@ -40,6 +41,7 @@
 		<Item Name="Main_rownolegle.vi" Type="VI" URL="../Main_rownolegle.vi"/>
 		<Item Name="szeregowe i rownolegle.vi" Type="VI" URL="../szeregowe i rownolegle.vi"/>
 		<Item Name="Time Control.vi" Type="VI" URL="../Time Control.vi"/>
+		<Item Name="Zmienna Temp FGV.vi" Type="VI" URL="../SubVI/Zmienna Temp FGV.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
