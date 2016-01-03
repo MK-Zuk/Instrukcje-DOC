@@ -75,6 +75,13 @@
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
+			<Item Name="Kongiguracja_virtual.vi" Type="VI" URL="../../Ćwiczenie 10/SubVI/SubVI_Virrtual.llb/Kongiguracja_virtual.vi"/>
+			<Item Name="Params.ctl" Type="VI" URL="../../Ćwiczenie 10/inne pliki/Params.ctl"/>
+			<Item Name="Pomiar_virtual.vi" Type="VI" URL="../../Ćwiczenie 10/SubVI/SubVI_Virrtual.llb/Pomiar_virtual.vi"/>
+			<Item Name="Stany.ctl" Type="VI" URL="../../Ćwiczenie 10/inne pliki/Stany.ctl"/>
+			<Item Name="Temp_konwersja.vi" Type="VI" URL="../../Ćwiczenie 10/SubVI/Temp_konwersja.vi"/>
+			<Item Name="Temperature_Limits.vi" Type="VI" URL="../../Ćwiczenie 10/SubVI/Temperature_Limits.vi"/>
+			<Item Name="Zwolnienie_virtual.vi" Type="VI" URL="../../Ćwiczenie 10/SubVI/SubVI_Virrtual.llb/Zwolnienie_virtual.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
