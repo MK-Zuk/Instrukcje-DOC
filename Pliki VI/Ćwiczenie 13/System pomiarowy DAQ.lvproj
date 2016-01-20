@@ -47,6 +47,7 @@
 		<Item Name="szeregowe i rownolegle.vi" Type="VI" URL="../szeregowe i rownolegle.vi"/>
 		<Item Name="Time Control.vi" Type="VI" URL="../Time Control.vi"/>
 		<Item Name="Property i Event.vi" Type="VI" URL="../Property i Event.vi"/>
+		<Item Name="Kolor dynamicznie.vi" Type="VI" URL="../SubVI/Kolor dynamicznie.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
